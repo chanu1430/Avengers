@@ -1,0 +1,106 @@
+
+#rough1{
+     width: 100%;
+     top: 0px;
+     position: sticky;
+     z-index: 2;
+}
+.navbar-dark .navbar-nav .nav-link {
+    
+    color: rgb(255, 255, 255) !important;
+    font-weight: 800;
+    padding-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  
+    
+}
+.navbar-dark .navbar-brand {
+    color: rgb(255, 255, 255) !important;
+    width: 35%;
+    font-family: 'Times New Roman', Times, serif ;
+    font-size:40px;
+    
+}
+.navbar {
+    background-color: rgb(0, 0, 0);
+}
+.image1{
+    margin-left:0px;
+    height:80px;
+    width:200px;
+    float:left;
+    margin-top:-8px;
+}
+#abouT{
+    background-color: black;
+    color: white;
+}
+#about{
+    padding-left:5%;
+
+}
+#avenger{
+    width:100%;
+    height:100%;
+    
+}
+#av1{
+    
+    border-radius:20px;
+    height: 40%;
+    padding-top: 15px;
+    padding-left:10%;
+    padding-right: 10%;
+    padding-bottom: 15px;
+}
+#av3{
+    text-align: justify;
+    padding:15px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#about{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#social{
+    float: right;
+    align-items: center;
+    
+}
+#foot{
+    height:auto;
+    background-color: black;
+    color: white;
+    padding:5% 0px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+#insta{
+    color: #d63384;
+    transition: 100ms;
+}
+#facebook{
+    color:#0d6efd;
+    transition: 100ms;
+}
+#facebook:hover{
+    transform: scale(1.2);
+    color: white;
+}
+#twitter{
+    transition: 100ms;
+}
+#linkedin{
+    transition: 100ms;
+}
+#insta:hover{
+    transform: scale(1.2);
+}
+#twitter:hover{
+    transform: scale(1.2);
+}
+#linkedin:hover{
+    transform: scale(1.2);
+}
