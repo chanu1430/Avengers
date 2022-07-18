@@ -1,0 +1,37 @@
+function validate(){
+    var email= document.getElementById("mail").value;
+    
+    var password=document.getElementById("passwd").value;
+    
+    var reg= /^([a-zA-Z0-9\.-_]+)@([gmail] +).([com])$/
+    if (reg.test(email))
+    {
+        alert("you entered a valid email id");
+        return true
+    }
+    else{
+        alert("you entered wrong email");
+        return false
+    }
+
+
+    var email= document.getElementById("mail").value;
+    
+   
+   
+    if (email==""){
+        console.log("please enter the email")
+    }
+    else{
+       alert("your mail is"+email)
+    }
+    var password=document.getElementById("passwd").value;
+    
+    if (password==""){
+        console.log("please enter the password")
+    }
+    else{
+        alert("your password is"+password)
+     }
+
+}

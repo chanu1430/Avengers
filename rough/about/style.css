@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+#avenger{
+    width:100%;
+    height:100%;
+    
+}
+#av1{
+    
+    border-radius:20px;
+    height: 40%;
+    padding-top: 15px;
+    padding-left:10%;
+    padding-right: 10%;
+    padding-bottom: 15px;
+}
+#av3{
+    text-align: justify;
+    padding:15px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+

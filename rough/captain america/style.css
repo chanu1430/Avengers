@@ -1,0 +1,90 @@
+#rod{
+    background-color:#fafafa;
+    box-shadow: 0px 10px 8px  #888888;
+    height:100%;
+
+   
+    
+}
+#navbar{
+    height:16%;
+}
+
+
+#logo1{
+    width:100%;
+    height:95px;
+   
+}
+
+
+#logo3{
+    width:100%;
+    height:95px;
+}
+#red{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    
+}
+
+
+#blue{
+    background-color: rgb(255, 255, 255);
+  
+    border-radius: 10px;
+}
+
+#brown{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+#yellow{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 10px;
+}
+#n1{
+   
+   width:100%;
+   height:80%;
+   transition: 250ms;
+}
+#cap1{
+    text-align:left;
+    color: black;
+    text-decoration: none;
+}
+
+#d1{
+    text-align:right;
+    
+}
+
+
+#n1:hover{
+    transform: scale(1.1);
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+
+
+
+/* -------------- ANIMATIONS--------------------
+#n1:hover{
+    animation: anime 2s ease forwards;
+}
+
+@keyframes anime{
+    0%{transform:scale(1);}
+    10%{transform:scale(1.2);}
+    11%{transform:rotateZ(0deg);}
+    50%{transform:rotateZ(180deg);}
+    90%{transform:rotateZ(0deg);}
+    90%{transform:scale(1.2);}
+    100%{transform:scale(1);}
+}
+*/
